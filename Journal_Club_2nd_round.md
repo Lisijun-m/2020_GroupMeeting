@@ -41,7 +41,7 @@ aversive olfactory learning
 
 ## 2020-09-24, 2pm
 * Speaker: Sijun Li
-* Title:
+* Title:Aedes aegypti Mosquitoes Detect Acidic Volatiles Found in Human Odor Using the IR8a Pathway
 
 ## 2020-10-01, 2pm
 * National Holiday 
